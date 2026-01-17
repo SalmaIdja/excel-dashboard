@@ -1,4 +1,4 @@
-#  World Energy Consumption
+# 🌍 CO₂ Emissions vs Renewable Energy Consumption Dashboard
 
 #### Tool: excel
 #### Data Source: Owid-CO2-data.csv &word energy consumption.csv dataset
@@ -40,12 +40,19 @@ This project was built entirely using Microsoft Excel, leveraging advanced featu
 •	Renewable Sources (solar, wind, hydro trends)
 •	CO₂ Emissions Map (filled map)
 ### 🔹 Interactivity
-•	Slicers for Country and Year
+•	Slicers for Country 
 •	All charts update dynamically
-Map and pie chart linked via GETPIVOTDATA tables
+Map and chart linked via GETPIVOTDATA tables
+
+# Key Insights
+Global CO₂ emissions remain high despite growth in renewables
+Hydro power dominates renewable consumption historically, but solar and wind are rising
+Fossil fuel consumption strongly correlates with CO₂ output
+Top energy-consuming countries (e.g., US, China, India) drive global emissions
+Some countries show renewable growth without proportional CO₂ reduction, revealing energy demand challenges
 
 # Dashboard Preview
-# Skills Demonstrated
+
 
 
 
