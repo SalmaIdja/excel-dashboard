@@ -52,6 +52,7 @@ Top energy-consuming countries (e.g., US, China, India) drive global emissions
 Some countries show renewable growth without proportional CO₂ reduction, revealing energy demand challenges
 
 # Dashboard Preview
+![Dashboard Preview]()
 
 
 
